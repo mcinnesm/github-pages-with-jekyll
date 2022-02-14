@@ -1,3 +1,8 @@
+---
+title: "YOUR-TITLE"
+date: 2022-02-14
+---
+
 title: Your awesome title
 author: mcinnesm
 email: mark.nunyab@github.com
